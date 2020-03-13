@@ -5,7 +5,7 @@ conference: October 22 - 23
 registration_url: /www-event-sf/register/
 venue: Hyatt Regency San Francisco
 location: San Francisco
-background: /www-event-sf/assets/images/sf_82955120@N05_1200.jpg
+background: sf_82955120@N05_1200.jpg
 pitch: "Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation.
         <br>
         <br>
@@ -13,5 +13,5 @@ pitch: "Welcome to Global AppSec San Francisco 2020 presented by the OWASP Found
         <br>
         <br>
         Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
-        <br>
+        <br><br>
         Registration opens in early 2020"

@@ -7,7 +7,7 @@ layout: event
 
 <!-- rebuild 24 -->
 
-{{ page.pitch }}
+{{ site.data.event-details.pitch }}
 
 
 
