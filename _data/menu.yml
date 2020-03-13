@@ -1,22 +1,22 @@
 - title: HOME
-  url: /www-event-testtwo/
+  url: /www-event-sf/
 - title: PROGRAM
   items:
     - title: Schedule
-      url : /www-event-testtwo/schedule/
+      url : /www-event-sf/schedule/
     - title: Keynotes
-      url : /www-event-testtwo/keynotes/
+      url : /www-event-sf/keynotes/
     - title: Training
-      url : /www-event-testtwo/trainings/
+      url : /www-event-sf/trainings/
     - title: Call for Speakers/Trainers
-      url : /www-event-testtwo/cfp_cft/
+      url : /www-event-sf/cfp_cft/
 - title: ABOUT
   items:
     - title: Sponsors & Exhibitors
-      url  : /www-event-testtwo/sponsors/
+      url  : /www-event-sf/sponsors/
     - title: Volunteer
-      url  : /www-event-testtwo/volunteer/
+      url  : /www-event-sf/volunteer/
     - title: Venue, Travel, & Lodging
-      url  : /www-event-testtwo/venue/about/
+      url  : /www-event-sf/venue/about/
     - title: Progam Team
-      url  : /www-event-testtwo/about/team/
+      url  : /www-event-sf/about/team/

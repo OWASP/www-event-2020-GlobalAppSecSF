@@ -1,25 +1,4 @@
 conferenceteam:
-  - name: Emma Heffernan
-    role: CFP Lead
-    image: team_emma_320x479.jpg
-  - name: Avi Douglen
-    role: CFP co-lead
-    image: team_avi_320x479.png
-  - name: Jeremy Lawrence
-    role: 
-    image: team_jeremy_320x480.jpg
-  - name: Katy Anton
-    role: CFT Lead
-    image: team_Katy_420x480.png
-  - name: Milan Gabor
-    role: 
-    image: team_gabor_320x480.jpg
-  - name: Ric Longenecker
-    role: 
-    image: team_ric_320x480.jpg
-  - name: Wojciech Cichon
-    role: 
-    image: team_wojciech_320x480.jpg
 staff: 
   - name: Mike McCamon 
     role: Executive Director

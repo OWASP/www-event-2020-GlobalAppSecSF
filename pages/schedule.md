@@ -3,7 +3,7 @@
 title: Schedule
 layout: event_noheader
 permalink: /schedule/
-registration_url: /www-event-testtwo/register/
+registration_url: /www-event-sf/register/
 
 ---
 

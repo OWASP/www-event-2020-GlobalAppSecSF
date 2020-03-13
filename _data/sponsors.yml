@@ -1,63 +1,122 @@
-- logo: /www-event-testtwo/assets/images/sponsors/secure-code-warrior.png
+
+- logo: /assets/images/sponsors/secure-code-warrior.png
   name: Secure Code Warrior
   url: https://securecodewarrior.com
   type: Gold
-- logo: /www-event-testtwo/assets/images/sponsors/synk.png
-  name: Synk
-  url: http://www.snyk.io/
-  backgroundSize: 125px
-  type: Sapphire 
-- logo: /www-event-testtwo/assets/images/sponsors/synopsys.png
-  name: Synopsys
-  url: https://www.synopsys.com/
+- logo: /assets/images/sponsors/Altitude_Networks_Silver_SF.jpg
+  name: Altitude Networks
+  url : https://www.altitudenetworks.com/
+  type: Silver
+- logo: /assets/images/sponsors/Bugcrowd_SILPKG_SF.png
+  name: Bugcrowd
+  url : http://www.bugcrowd.com/
   backgroundSize: 125px
   type: Silver
-- logo: /www-event-testtwo/assets/images/sponsors/checkmarx.png
-  name: Checkmarx
-  url: https://www.checkmarx.com/
-  backgroundSize: 125px
-  type: Silver
-- logo: /www-event-testtwo/assets/images/sponsors/contrast-security.png
-  name: Contrast Security
-  url: https://www.contrastsecurity.com
-  backgroundSize: 125px
-  type: Ruby
-- logo: /www-event-testtwo/assets/images/sponsors/detectify.png
+- logo: /assets/images/sponsors/detectify.png
   name: Detectify
   url : https://detectify.com
   backgroundSize: 125px
   type: Silver
-- logo: /www-event-testtwo/assets/images/sponsors/kryptowire.png
-  name: Kryptowire
-  url :  https://www.kryptowire.com/
-  backgroundSize: 125px
-  type: Ruby
-- logo: /www-event-testtwo/assets/images/sponsors/security-innovation.png
-  name: Security Innovation 
-  url: https://www.securityinnovation.com/ 
-  backgroundSize: 125px
-  type: Ruby
-- logo: /www-event-testtwo/assets/images/sponsors/security_journeylogo.png
-  name: Security Journey
-  url: https://www.securityjourney.com
+- logo: /assets/images/sponsors/ExtraHop_Silver.png
+  name: ExtraHop
+  url : http://www.extrahop.com/
   backgroundSize: 125px
   type: Silver
-- logo: /www-event-testtwo/assets/images/sponsors/tala.png
-  name: Tala Security
-  url: https://www.talasecurity.io
+- logo: /assets/images/sponsors/intertrust_Silver.png
+  name: Intertrust
+  url : https://www.intertrust.com/
+  backgroundSize: 125px
   type: Silver
-- logo: /www-event-testtwo/assets/images/sponsors/ripstech_black.png
+- logo: /assets/images/sponsors/Lyft_Silver.png
+  name: Lyft
+  url : http://www.lyft.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/NowSecure_Silver.png
+  name: NowSecure
+  url : https://www.nowsecure.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/Qualys_Silver.jpg
+  name: Qualys
+  url : https://www.qualys.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/RIPSTech_Silver.png
   name: RIPS Technologies
   url: https://ripstech.com
   backgroundSize: 125px
   type: Silver
-- logo: /www-event-testtwo/assets/images/sponsors/virtru.png
-  name: Virtru
-  url: https://www.virtru.com/
+- logo: /assets/images/sponsors/Salt_Logo_Ruby.png
+  name: Salt Security
+  url : https://salt.security/
   backgroundSize: 125px
-  type: Ruby   
-- logo: /www-event-testtwo/assets/images/sponsors/BCC_Risk.png
-  name: BCC Risk
-  url: https://www.edgescan.com
+  type: Silver
+- logo: /assets/images/sponsors/Security_Journey_Logo_Ruby.png
+  name: Security Journey
+  url: https://www.securityjourney.com
   backgroundSize: 125px
-  type: Lanyard
+  type: Silver
+- logo: /assets/images/sponsors/sqreen_Silver.png
+  name: Sqreen
+  url : https://www.sqreen.com/
+  type: Silver
+- logo: /assets/images/sponsors/tala.png
+  name: Tala Security
+  url : http://www.talasecurity.io/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/veracode.png
+  name: Veracode
+  url : https://www.veracode.com/
+  backgroundSize: 125px
+  type: Silver    
+- logo: /assets/images/sponsors/WhitesourceSilver.png
+  name: White Source Software
+  url : https://www.whitesourcesoftware.com/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/ZeroNorth_Silver.png
+  name: Zero North
+  url : https://www.zeronorth.io/
+  backgroundSize: 125px
+  type: Silver
+- logo: /assets/images/sponsors/Acunetix_Sapphire_SF.png
+  name: Acunetix
+  url: https://www.acunetix.com
+  backgroundSize: 125px
+  type: Sapphire
+- logo: /assets/images/sponsors/Micro_Focus_Sapphire.png
+  name: Micro Focus
+  url: https://www.microfocus.com/en-us/home
+  backgroundSize: 125px
+  type: Sapphire
+- logo: /assets/images/sponsors/Netsparker_Sapphire_SF.png
+  name: Netsparker
+  url: https://www.netsparker.com/
+  backgroundSize: 125px
+  type: Sapphire
+- logo: /assets/images/sponsors/Rapid71_Sapphire.jpg
+  name: Rapid7
+  url: https://www.rapid7.com/
+  backgroundSize: 125px
+  type: Sapphire
+- logo: /assets/images/sponsors/Salesforce_Sapphire_SF.png
+  name: Salesforce
+  url: https://www.salesforce.com/
+  type: Sapphire
+- logo: /assets/images/sponsors/securitycompass-logo_Sapphire.jpg
+  name: Security Compass
+  url: https://www.securitycompass.com/
+  backgroundSize: 125px
+  type: Sapphire
+- logo: /assets/images/sponsors/Security_Innovation_Ruby_SF.png
+  name: Security Innovation
+  url : https://www.securityinnovation.com/
+  backgroundSize: 125px
+  type: Ruby
+- logo: /assets/images/sponsors/whitehat.490x81.png
+  name: Whitehat Security
+  url : https://www.whitehatsec.com/
+  backgroundSize: 125px
+  type: Ruby

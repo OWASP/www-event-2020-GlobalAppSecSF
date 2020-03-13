@@ -3,7 +3,7 @@
 title: Volunteer Information
 layout: event_noheader
 permalink: /volunteer/
-registration_url: /www-event-testtwo/register/
+registration_url: /www-event-sf/register/
 
 ---
 
@@ -18,7 +18,7 @@ Global AppSec volunteers are expected to implement the following functions durin
 * Greet attendees upon arrival and throughout the conference.
 * Assist attendees with finding rooms/locations throughout the event.
 * Assist OWASP Foundation Staff members with setup, closing and continued operations throughout the duration of the conference.
-* Ensure participants’ compliance with the OWASP Global AppSec [Code of Conduct](/www-event-testtwo/about/code-of-conduct)   
+* Ensure participants’ compliance with the OWASP Global AppSec [Code of Conduct](/www-event-sf/about/code-of-conduct)   
 
 ## Checklist
 
@@ -32,7 +32,7 @@ Global AppSec volunteers are expected to implement the following functions durin
 * REGISTER: It is critical that you register. Discount codes will be distributed to volunteers.
 * BOOK HOTEL: To book a room at the conference hotel use the link above.
 * Conference Passes include: Coffee and lunch on Thursday & Friday, access to the conference talks & expo area, social events, and conference activities.
-* Details on the event schedule can be found [here](/wwww-event-testtwo/schedule/)
+* Details on the event schedule can be found [here](/wwww-event-sf/schedule/)
 * Travel Information - TBD
 
 ## Contact Info

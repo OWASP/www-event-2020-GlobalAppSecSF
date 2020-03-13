@@ -1,49 +1,37 @@
 ---
 
-title: About Dublin
+title: About San Francisco
 layout: event_noheader
 permalink: /venue/about/
-registration_url: /www-event-testtwo/register/
 
 ---
 
-### Convention Center Dublin
+### Hyatt Regency San Francisco
+5 Embarcadero Center <br>
+San Francisco, CA 94111<br>
+USA
 
-Spencer Dock
-North Wall Quay
-Dublin 1 D01 T1W6
-Ireland
+### About San Francisco:
 
-### About Dublin:
-
-Dublin is more than just a great conference location. Combining a solid reputation for education and innovation, with great accessibility, it is no coincidence that Dublin is now the European headquarters of many of the world’s leading corporations, and a centre for academic research and innovation. As the home to many of the world’s top ICT, Financial and Pharmaceutical corporations, it is a serious place to do business.
-
-Yet, Dublin has not forgotten its roots and is steeped in a rich cultural heritage that begs to be explored. All year round, the city is alive with music, art and theatre of all kinds and, of course, art galleries and museums abound. All complemented by an impressive range of restaurants, cafés and shops
-
+<p>It may measure less than 50 square miles and have a population that doesn’t even crack a million, but San Francisco justly ranks as one of the greatest cities in the world. Famous for grand-dame Victorians, cable cars, dynamic diversity, a beautiful waterfront, and a soaring crimson bridge, the “City by the Bay” truly has it all. Trend-defining cuisine ranging from Michelin-starred dining aplenty to outrageous food trucks; world-renowned symphony, ballet, theater, and opera; plus almost boundless outdoor adventures, San Francisco justifiably stands out as one of the ultimate must-visit cities on any traveler’s wish list.</p>
+<p>San Francisco International Airport (SFO) offers non-stop flights to more than 50 international destinations on more than 40 international carriers. The Bay Area’s largest airport connects nonstop with 88 cities in the U.S. on 12 domestic airlines. Located just 14 miles south of the city, it is directly connected to downtown San Francisco by Bay Area Rapid Transit (BART). Once you’ve arrived, explore the city with San Francisco's Muni transit system, any of our tour or transportation partners, or simply on foot! Don't let our famous hills fool you; San Francisco is ranked as one of the top walking cities in the U.S.</p>
 
 ### Getting there:
 
-Situated at the heart of Dublin’s transport hub with excellent air, road, rail and sea connections, The Convention Centre Dublin is easily accessible for all!
+<p>Located downtown in the Embarcadero district, Hyatt Regency San Francisco is steps away from the BART, the California cable car stop, and the Golden Gate ferry terminal. Our central location is walking distance to the city’s hot spots.</p>
+<p>San Francisco International Airport (SFO) offers non-stop flights to more than 50 international destinations on more than 40 international carriers. The Bay Area’s largest airport connects nonstop with 88 cities in the U.S. on 12 domestic airlines. Located just 14 miles south of the city, it is directly connected to downtown San Francisco by Bay Area Rapid Transit (BART). Once you’ve arrived, explore the city with San Francisco's Muni transit system, any of our tour or transportation partners, or simply on foot! Don't let our famous hills fool you; San Francisco is ranked as one of the top walking cities in the U.S.</p>
 
-By Air Dublin is highly accessible for delegates travelling from the UK, Europe, the US, and beyond. Dublin Airport is just 15 minutes from The Convention Centre Dublin via the Port Tunnel and serves over 180 routes – including direct flights to all major UK and European cities and daily flights to the Emirates and several North American cities.
 
-For your journey to The CCD, the Airlink airport shuttle bus stops directly outside the building, while taxi and car hire services are also easily available.
 
-By Car or Taxi The Convention Centre Dublin is just minutes away from Ireland’s M50 motorway network and Dublin’s Port Tunnel, making it easy to bring in supplies and equipment for your event. It is also next to the Samuel Beckett Bridge which spans the River Liffey, aiding access between the North and South of the city.
+### Lodging 
 
-The CCD has its own underground car park, with over 2,000 spaces located in car parks nearby, as well as considerable on street ‘pay and display’ parking on North 
-Wall Quay and adjoining roads.
+#### Hyatt Regency San Francisco
+5 Embarcadero Center<br>
+San Francisco, CA 94111<br>
+USA
 
-Find out more about parking near The CCD and access for deliveries.
+OWASP is pleased to offer a room rate of $329 [book room here](https://hotelmap.com/events/M2L4M-LV)
 
-By Rail, Tram or Bus Conveniently located in Dublin’s Docklands, the business hub of the city, The Convention Centre Dublin can be accessed via a growing network of public transport options.
+#### Why stay at the conference hotel:
 
-Rail and DART The CCD is less than 10 minutes on the Luas Red Line from Dublin’s two main railway stations, Connolly and Heuston. Operated by Irish Rail, these stations serve all the major towns and cities in Ireland.
-
-The DART (Dublin Area Rapid Transit) rail network runs along the coast of Dublin, from Malahide and Howth, to Bray and Graystones, providing transport from the city centre to suburban areas. Connolly, Pearse Street and Tara Street DART stations are all located about 10 minutes’ walk from The CCD.
-
-Tram (Luas) Luas is Dublin’s light rail transit system. There are two lines, the Green Line and the Red Line. The CCD is on the Red Line, conveniently linking to downtown Dublin and Connolly and Heuston rail stations. Major Square and Spencer Dock are the closest stops. Switch between the Red and Green lines at Abbey Street / O’Connell – GPO / Marlborough stops
-
-### Lodging
-
-<script async src="https://hotelmap.com/api/html/v2/listing?m=M56QU" type="text/javascript" id="hotelmap_script"></script>
+The official conference hotel is the center of conference activities. It's a quick trip to get to the technical sessions, it provides opportunities for networking with conference attendees and it makes it easy to return to your room.By staying at the conference hotels, you enhance your opportunities to meet with colleagues and share experiences and ideas. 

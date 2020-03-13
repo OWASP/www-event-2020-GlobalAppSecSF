@@ -2,7 +2,7 @@
 
 title: The conference team
 layout: event_noheader
-registration_url: /www-event-testtwo/register/
+registration_url: /www-event-sf/register/
 permalink: about/team/
 
 ---
@@ -13,7 +13,7 @@ permalink: about/team/
 	<ul >
 	{% for member in site.data.team.conferenceteam %}
 	<li>
-		<div style="background-image: url(/www-event-testtwo/assets/images/team/{{member.image | default: 'owasp_logo.png'}})" alt="{{member.name}} {{member.role}}"></div>
+		<div style="background-image: url(/www-event-sf/assets/images/team/{{member.image | default: 'owasp_logo.png'}})" alt="{{member.name}} {{member.role}}"></div>
 		<h4>{{member.name}}</h4>
 		<span class="role">{{member.role}}</span>
 	</li>
@@ -25,7 +25,7 @@ permalink: about/team/
 	<ul>
 	{% for member in site.data.team.staff %}
 	<li>
-		<div style="background-image: url(/www-event-testtwo/assets/images/team/{{member.image | default: 'owasp_logo.png'}})" alt="{{member.name}} {{member.role}}"></div>
+		<div style="background-image: url(/www-event-sf/assets/images/team/{{member.image | default: 'owasp_logo.png'}})" alt="{{member.name}} {{member.role}}"></div>
 		<h4>{{member.name}}</h4>
 		<span class="role">{{member.role}}</span>
 	</li>

@@ -3,7 +3,7 @@
 title: Keynotes
 permalink: keynotes/
 layout: event_noheader
-registration_url: /www-event-testtwo/register/
+registration_url: /www-event-sf/register/
 
 ---
 
@@ -14,7 +14,7 @@ registration_url: /www-event-testtwo/register/
 		{% if speaker.name %}
 		<li>
 			<a name="{{speaker.name}}">
-			<img style="background-image: url(/www-event-testtwo/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});{{speaker.style}};"></a>
+			<img style="background-image: url(/www-event-sf/assets/images/keynotes/{{speaker.image | default: 'owasp_logo.png'}});{{speaker.style}};"></a>
 			<h4><a name="{{speaker.name}}">{{speaker.name}}</a></h4>
 			<p>
 				{{speaker.bio}}
