@@ -1,7 +1,7 @@
 ---
 title: Diversity statement
 layout: event_noheader
-registration_url: /www-event-sf/register/
+registration_url: /register/
 ---
 
 # {{page.title}}

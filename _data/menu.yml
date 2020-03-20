@@ -1,22 +1,22 @@
 - title: HOME
-  url: /www-event-sf/
+  url: /
 - title: PROGRAM
   items:
     - title: Schedule
-      url : /www-event-sf/schedule/
+      url : /schedule/
     - title: Keynotes
-      url : /www-event-sf/keynotes/
+      url : /keynotes/
     - title: Training
-      url : /www-event-sf/trainings/
+      url : /trainings/
     - title: Call for Speakers/Trainers
-      url : /www-event-sf/cfp_cft/
+      url : /cfp_cft/
 - title: ABOUT
   items:
     - title: Sponsors & Exhibitors
-      url  : /www-event-sf/sponsors/
+      url  : /sponsors/
     - title: Volunteer
-      url  : /www-event-sf/volunteer/
+      url  : /volunteer/
     - title: Venue, Travel, & Lodging
-      url  : /www-event-sf/venue/about/
+      url  : /venue/about/
     - title: Progam Team
-      url  : /www-event-sf/about/team/
+      url  : /about/team/
