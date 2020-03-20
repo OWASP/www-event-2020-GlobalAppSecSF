@@ -9,5 +9,11 @@ layout: event
 
 {{ site.data.event-details.pitch }}
 
+[**Calls for Presentations and Trainings are open now**](cfp_cft/)
+
+Registration opens in early 2020
+
+
+
 
 
