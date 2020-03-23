@@ -7,7 +7,7 @@ permalink: /sponsors/
 ---
 
 # {{ page.title }}
-
+<br>
 Global AppSec Events provide unique opportunities for members, the community, and partners to connect and discover new InfoSec products and solutions. The OWASP Foundation offers several options to potential sponsors:
 
 * Single event sponsorships

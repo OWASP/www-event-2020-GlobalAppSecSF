@@ -5,6 +5,7 @@ permalink: cfp_cft/
 ---
 
 # {{ page.title }}
+<br>
 ***Considering the ongoing international emergency regarding the COVID-19 Coronavirus, we are aware that an in-person conference may not be feasible. While we are moving forward with the planning of an in-person conference, there is a possibility we may need to make the conference virtual. We ask that you design content that could be effectively presented in either format. We will provide technical guidelines and assistance to speakers who may not be familiar with delivering virtual content should the decision be made to hold the conference virtually.***
 
 ### **Overview**

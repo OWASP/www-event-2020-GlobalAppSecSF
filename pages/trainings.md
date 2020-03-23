@@ -7,7 +7,7 @@ permalink: /trainings/
 ---
 
 # {{page.title}}
-
+<br>
 #### Training subject to change based on trainer availability.
 
 {% assign tpricing = site.data.pricing | where: 'title', 'Training Courses' %}
