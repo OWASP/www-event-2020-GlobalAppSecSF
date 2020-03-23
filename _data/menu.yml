@@ -9,7 +9,7 @@
     - title: Call for Speakers/Trainers
       url : /cfp_cft/
 - title: SPONSORING
-      url: /sponsors/
+  url: /sponsors/
 - title: ABOUT
   items:
     - title: Volunteer
@@ -20,3 +20,4 @@
       url  : /about/team/
     - title: OWASP Foundation
       url  : https://owasp.org/
+      opentab: true

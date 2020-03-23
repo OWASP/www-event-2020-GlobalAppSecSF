@@ -1,10 +1,12 @@
 ---
 
-title: Keynotes
+title: Event Keynotes
 permalink: keynotes/
 layout: event_noheader
 
 ---
+
+# {{page.title}}
 
 <div class="keynote-full">
 	

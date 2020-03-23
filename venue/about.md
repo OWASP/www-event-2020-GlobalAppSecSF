@@ -1,11 +1,13 @@
 ---
 
-title: About San Francisco
+title: Venue, Travel, & Lodging
 layout: event_noheader
 permalink: /venue/about/
 
 ---
 
+# {{ page.title }}
+<br>
 ### Hyatt Regency San Francisco
 5 Embarcadero Center <br>
 San Francisco, CA 94111<br>

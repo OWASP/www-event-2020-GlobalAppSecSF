@@ -1,15 +1,16 @@
 ---
 
-title: The conference team
+title: The Conference Team
 layout: event_noheader
 registration_url: /register/
 permalink: about/team/
 
 ---
 
-
+# {{ page.title }}
+<br>
 <section class="team-list">
-	<h2>Organizing Committee</h2>
+	<h3>Organizing Committee</h3>
 	<ul >
 	{% for member in site.data.team.conferenceteam %}
 	<li>
@@ -21,7 +22,7 @@ permalink: about/team/
 	</ul>
 </section>
 <section class="team-list">
-	<h2>OWASP Staff</h2>
+	<h3>OWASP Staff</h3>
 	<ul>
 	{% for member in site.data.team.staff %}
 	<li>

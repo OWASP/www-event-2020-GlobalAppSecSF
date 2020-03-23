@@ -5,6 +5,7 @@ layout: event_noheader
 permalink: /volunteer/
 
 ---
+# {{ page.title }}
 
 ## Overview
 On behalf of the OWASP Foundation, the conference planning team and everyone attending the conference, we would like to thank you for volunteering at this year’s event. Without volunteers the conference would not run as smoothly and so we rely heavily on your goodwill and assistance.

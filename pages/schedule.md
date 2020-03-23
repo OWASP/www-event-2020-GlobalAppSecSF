@@ -1,9 +1,11 @@
 ---
 
-title: Schedule
+title: Program Schedule
 layout: event_noheader
 permalink: /schedule/
 
 ---
 
-### The schedule is still being determined.  Please come back later.
+# {{ page.title }}
+
+The schedule is still being determined.  Please come back later.
