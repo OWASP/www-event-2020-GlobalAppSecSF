@@ -9,7 +9,7 @@ conferenceteam:
     image: team_glen_gomez_zuazo.png
   - name: Kevin Buck
     image: team_kevin_buck.jpg
-    - name: Aaron Rinehart
+  - name: Aaron Rinehart
     image: team_aaron_rinehart.png
 staff: 
   - name: Mike McCamon 
