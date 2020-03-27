@@ -8,55 +8,82 @@ permalink: /sponsors/
 
 # {{ page.title }}
 <br>
+---
+title: Sponsoring
+---
+
+
 Global AppSec Events provide unique opportunities for members, the community, and partners to connect and discover new InfoSec products and solutions. The OWASP Foundation offers several options to potential sponsors:
 
 * Single event sponsorships
-* Packages for multiple events, training, and other valuable benefits available exclusively to Corporate Sponsors only. 
+* Packages for multiple events, training, and other benefits
 
-If you are interested in becoming a Single Event or Corporate Sponsor, please contact 
+If you are interested in becoming a Single or Corporate Event Sponsor, please contact 
 [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com?subject=Sponsorship%20Interest) for more information.
 
----
+----
+
 ## Exhibitor Opportunities
 
-| Level & Benefits |  Sapphire | Ruby |
-| ----- | :-----: | :-----: | 
-| AppSec Event | Single event only | Single event only |
-| Expo Space | 3mx4m | 3mx2m |
-| Conference Passes | Four  | Two  | 
-| Expo Only Passes | Two | Two |
-| Logo on Event Website | Yes | Yes |
-| Logo on Event Signage | Yes | Yes |
-| Lead Scanner | One | One |
-| Cost | €10,500 | €7,500 |
+### Ruby | $15,000
+* 10' x 7' expo space
+* Two conference passes
+* Two expo only passes
+* Logo on event website and signage
+* One lead scanner
 
----
+### Sapphire | $25,000
+* 20' x 8' expo space
+* Four conference passes
+* Two expo only passes
+* Logo on event website and signage
+* One lead scanner
+
+----
+
 ## Sponsorship Opportunities
 
-| Lanyards | Logo Sponsorship ( **NEW** )|
-| :--- | | :--- |
-| Sponsoring company agrees to provide 750+/- lanyards for all attendees. <br> Specs to be provided and approval of design by OWASP. <br>  Lanyards must arrive prior to the start of the first training day. | Available to [Corporate Members](https://www.owasp.org/index.php/Corporate_Membership) |
-| Logo on Event Website | Logo On Event Website |
-|  | Logo on Event Signange |
-| €4000 | €2500 |
+### Lanyards | $8,000
+* Sponsoring company agrees to provide 1200+/- lanyards for all attendees. <br> Specs to be provided and approval of design by OWASP. <br>  Lanyards must arrive prior to the start of the first training day.
+* Logo on event website
 
----
+### Logo Sponsorship (**NEW**) | $2,500
+* Logo on event website and signage
+
+----
+
 ## Corporate Sponsorship Packages
 
-| Level & Benefits | Diamond | Platinum | Gold | Silver |
-| ----- | :-----: | :-----: | :-----: | :-----: |
-| AppSec Events | All Global AppSec's and Three Regional | All Global AppSecs and Two Regional | Two Global AppSecs and One Regional | One Global AppSec and One Regional |
-| Expo Space | 8'x6'| 8'x6'| 8'x6'| 8'x6'|
-| Conference Passes | Three  | Three  | Three  | Three  | 
-| Logo on Event website | Yes | Yes | Yes | Yes |
-| Lead Scanner* | Yes | Yes | Yes | Yes |
-| Cost | $120,000 | $80,000 | $45,000 | $25,000 |
-| ***Additional Benefits*** | | | |
-| Discounted Passes | 50% Full Conference | 50% Full Conference | 20% Full Conference | 20% Full Conference |
-| Training Passes | 10 Seats |10 Seats |10 Seats |2 Seats |
-| On-Site Training | 10 Days | 5 Days | None| None |
-| Recognition on website | Bio and Logo | Bio and Logo | Bio and Logo | Bio and Logo |
-| Discounted Corporate Membership | Yes | Yes | Yes | Yes |
+### All packages come with:
+* 8' x 6' expo space
+* Three conference passes
+* Logo and bio on event website
+* Lead scanner*
+* Discounted corporate membership!
+
+### In addition to the above the individual levels include:
+#### Silver | $25,000
+* The choice of one global and one regional AppSec event
+* 20% off the full conference pass
+* 2 training passes
+
+#### Gold | $45,000
+* The choice of two global and one regional AppSec event
+* 20% off the full conference pass
+* 10 training passes
+
+#### Platinum | $80,000
+* All global and the choice of two regional AppSec events
+* 50% off the full conference pass
+* 10 training seats
+* 5 days of on-site training
+
+#### Diamond | $120,000
+* All global and the choice of three regional events
+* 50% off the full conference pass
+* 10 training seats
+* 10 days of on-site training
+
 
 Corporate Sponsorships have twelve months of benefits from the date payment is received.  
     * At participating events
