@@ -114,6 +114,10 @@
   name: Security Innovation
   url : https://www.securityinnovation.com/
   backgroundSize: 125px
+- logo: /assets/images/sponsors/virtru.png
+  name: Virtru
+  url: https://www.virtru.com/
+  backgroundSize: 125px   
   type: Ruby
 - logo: https://owasp.org/assets/images/corp-member-logo/white-hat-security.png
   name: Whitehat Security
