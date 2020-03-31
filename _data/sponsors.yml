@@ -120,3 +120,7 @@
   url : https://www.whitehatsec.com/
   backgroundSize: 125px
   type: Ruby
+- logo: https://owasp.org/assets/images/corp-member-logo/virtru.png
+  name: Virtru
+  url : https://www.virtru.com/
+  backgroundSize: 125px
