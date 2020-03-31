@@ -124,3 +124,13 @@
   name: Virtru
   url : https://www.virtru.com/
   backgroundSize: 125px
+  type: Capture the Flag 
+- logo: https://owasp.org/assets/images/corp-member-logo/security-innovation.png
+  name: Security Innovation 
+  url : https://www.securityinnovation.com/
+  backgroundSize: 125px
+  type: Lunch Sponsor 
+- logo: https://owasp.org/assets/images/corp-member-logo/segment.png
+  name: Segment  
+  url : https://segment.com/
+  backgroundSize: 125px
