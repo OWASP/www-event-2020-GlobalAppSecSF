@@ -8,6 +8,7 @@ location: San Francisco
 background: sf_82955120@N05_1200_72.jpg
 color: c21a6c
 analytics: UA-4531126-10
+registration_open: false
 pitch: "Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation.
         <br>
         <br>

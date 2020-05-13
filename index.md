@@ -12,7 +12,7 @@ layout: event
 
 {{ site.data.event-details.pitch }}
 
-Registration opens in early 2020
+Registration opens in June
 
 
 
