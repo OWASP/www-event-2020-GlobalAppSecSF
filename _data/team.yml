@@ -11,6 +11,8 @@ conferenceteam:
     image: team_kevin_buck.jpg
   - name: Aaron Rinehart
     image: team_aaron_rinehart.png
+  - name: Liza Roberts
+    image:  team_liza_roberts.jpg
 staff: 
   - name: Mike McCamon 
     role: Executive Director
