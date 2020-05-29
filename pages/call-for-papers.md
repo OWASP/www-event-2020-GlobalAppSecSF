@@ -15,8 +15,7 @@ The conference will take place at the **Hyatt Regency in San Francisco, Californ
 <br><br>
 
 ----
-#### [**Call for Presentations (CfP)** is open](https://owasp.submittable.com/submit/162464/global-appsec-san-francisco-2020-cfp)
-
+#### **Call for Presentations (CfP)** is CLOSED
 
 Application Security Leaders, Software Engineers, and Researchers from all over the world gather at Global AppSec Conferences to drive visibility and evolution in the safety and security of the world’s software - as well as to network, collaborate, and share the newest innovations in the field. 
 
