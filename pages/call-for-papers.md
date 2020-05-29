@@ -45,7 +45,7 @@ Speakers should focus on the following guidance for each of the tracks:
 
 ----
 
-#### [**Call for Trainers (CfT)** is open](https://owasp.submittable.com/submit/162471/global-appsec-san-francisco-2020-cft)
+#### **Call for Trainers (CfT)** is CLOSED
 
 The Program Team is formally issuing a call for Trainers, opening <b>March 23,  2020</b>. 
 
