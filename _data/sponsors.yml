@@ -42,11 +42,6 @@
   url : https://www.qualys.com/
   backgroundSize: 125px
   type: corporate
-- logo: https://owasp.org/assets/images/corp-member-logo/ripstech.png
-  name: RIPS Technologies
-  url: https://ripstech.com
-  backgroundSize: 125px
-  type: corporate
 - logo: https://owasp.org/assets/images/corp-member-logo/salt.png
   name: Salt Security
   url : https://salt.security/
@@ -55,6 +50,11 @@
 - logo: https://owasp.org/assets/images/corp-member-logo/security-journey.png
   name: Security Journey
   url: https://www.securityjourney.com
+  backgroundSize: 125px
+  type: corporate
+- logo: https://owasp.org/assets/images/corp-member-logo/sonarsource.png
+  name: Sonarsource
+  url: https://www.sonarsource.com/
   backgroundSize: 125px
   type: corporate
 - logo: https://owasp.org/assets/images/corp-member-logo/sqreen.png
