@@ -8,4 +8,5 @@ permalink: /schedule/
 
 # {{ page.title }}
 <br>
-The schedule is still being determined.  Please come back later.
+
+<a id="sched-embed" href="https://globalappsecsanfrancisco2020.sched.com">View the Global AppSec San Francisco schedule &amp; directory.</a><script type="text/javascript" src="https://globalappsecsanfrancisco2020.sched.com/js/embed.js"></script>
