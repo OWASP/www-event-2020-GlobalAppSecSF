@@ -22,7 +22,7 @@ If you are interested in becoming a Single or Corporate Event Sponsor, please co
 
 ### Basic | $5,000
 * Virtual booth
-* Two conference oasses
+* Two conference passes
 * Booth leads
 * Small logo on website
 
@@ -41,6 +41,6 @@ If you are interested in becoming a Single or Corporate Event Sponsor, please co
 * Capture the SWAG (lead driver)
 * Prominent logo on website
 * Scavenger hunt participant
-* Leads from all attendees
-* Choice o keynote or track promo video (limited availability)
+* Leads from all registered opt-in attendees
+* Choice of keynote or track promo video (limited availability)
 * Premium virtual booth placement
