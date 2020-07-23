@@ -13,7 +13,7 @@ layout: event
 
 {{ site.data.event-details.pitch }}
 
-Registration opens in June
+Registration opens soon
 
 
 
