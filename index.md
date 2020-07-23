@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec San Francisco 2020
+title: Virtual Global AppSec 2020
 layout: event
 
 ---
