@@ -24,14 +24,14 @@ If you are interested in becoming a Single or Corporate Event Sponsor, please co
 * Virtual booth
 * Two conference passes
 * Booth leads
-* Small logo on website
+* Logo on website
 
 ### Premier | $15,000
 * Virtual booth
 * Four conference passes
 * Booth leads
 * Capture the SWAG (lead driver)
-* Large logo on website
+* Logo on website
 * Leads from all paid opt-in attendees
 
 ### Over Achiever | $25,000 (limited availability)
@@ -39,7 +39,7 @@ If you are interested in becoming a Single or Corporate Event Sponsor, please co
 * Four conference passes
 * Booth leads
 * Capture the SWAG (lead driver)
-* Prominent logo on website
+* Logo on website
 * Scavenger hunt participant
 * Leads from all registered opt-in attendees
 * Choice of keynote or track promo video (limited availability)
