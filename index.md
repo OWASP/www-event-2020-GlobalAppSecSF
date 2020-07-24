@@ -10,7 +10,6 @@ layout: event
 **Calls for Presentations and Trainings have closed**
 
 <br><br>
-
 {{ site.data.event-details.pitch }}
 
 Registration opens soon
