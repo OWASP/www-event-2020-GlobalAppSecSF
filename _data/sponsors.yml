@@ -119,11 +119,6 @@
   name: Whitehat Security
   url : https://www.whitehatsec.com/
   backgroundSize: 125px
-  type:  
-- logo: https://owasp.org/assets/images/corp-member-logo/virtru.png
-  name: Virtru
-  url : https://www.virtru.com/
-  backgroundSize: 125px
   type: 
 - logo: https://owasp.org/assets/images/corp-member-logo/segment.png
   name: Segment  
