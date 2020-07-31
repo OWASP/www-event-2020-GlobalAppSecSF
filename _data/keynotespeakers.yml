@@ -16,5 +16,13 @@
   name: Coleen Coolidge
   title: 
   bio: "Coleen Coolidge is the CISO at Segment in San Francisco, building holistic security and trust programs to protect customer data. Previously, she did the same at Twilio (pre-IPO and post-IPO) as Sr Director of Trust and Security. She's also served in security-leadership positions at more traditional, enterprise companies like First American Title and CoreLogic in Southern California. Coleen's goal is to advance the security culture past “just having some infrastructure people do it” to creating a comprehensive program where everyone in the company takes ownership to improve the company’s security posture every year."
+  subject:
   abstract:
   style:
+- image: kn_andrew_schafer.jpg
+  name: Andrew Schafer 
+  title:
+  bio: "Always fascinated with the dynamics of high performing individuals and organizations, Andrew Clay Shafer has a long history helping people deliver systems with better tools and processes. Andrew evangelized devops before devops was a word and helped to organize the devops community since the earliest days of the movement. Gravitating to Agile methods as a competitive advantage for software development at startups in the early 2000s, Andrew pioneered new ways of working to automate systems which evolved into practices that are now mainstream. While the tools and practices continue evolving, Andrew is still focused on helping organizations change their behavior to improve their technology outcomes."
+  subject:
+  abstract:
+  style: "background-position-x: -35px;"
