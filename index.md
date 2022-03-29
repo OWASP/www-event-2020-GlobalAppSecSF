@@ -21,6 +21,6 @@ redirect_from:
 
 ---
 
-<meta http-equiv="Refresh" content="0; url=https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/" />
+<meta http-equiv="Refresh" content="0; url=https://events.bizzabo.com/OWASPGlobalAppSec" />
 
 {{ site.data.event-details.pitch }}
